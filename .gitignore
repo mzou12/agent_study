@@ -1,0 +1,4 @@
+tool-test/.env
+tool-test/node_modules
+tool-test/react-todo-app
+tool-test/pnpm-lock.yaml
