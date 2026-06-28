@@ -1,0 +1,24 @@
+{
+  "name": "rag-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@langchain/classic": "^1.0.36",
+    "@langchain/community": "^1.1.29",
+    "@langchain/core": "^1.2.0",
+    "@langchain/openai": "^1.5.1",
+    "@langchain/textsplitters": "^1.0.1",
+    "@zilliz/milvus2-sdk-node": "^3.0.3",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "js-tiktoken": "^1.0.21"
+  }
+}
